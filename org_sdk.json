@@ -38,19 +38,6 @@
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 10
-    },
-    {
-      "status": 1,
-      "package-name": "com.keepsafe.pdfreader.pdf.editor",
-      "name": "out",
-      "value": "1359771600835145_1373826812762957",
-      "show-default": true,
-      "type": "1",
-      "enable": true,
-      "time-show": 180,
-      "time-after-start": 200000,
-      "count-show": 0,
-      "max-show-day": 0
-    }
+    } 
   ]
 }
