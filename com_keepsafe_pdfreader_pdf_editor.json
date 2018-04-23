@@ -55,7 +55,7 @@
     {
       "status": 1,
       "package-name": "com.keepsafe.pdfreader.pdf.editor",
-      "name": "out",
+      "name": "native_read",
       "value": "1359771600835145_1374179816060990",
       "show-default": true,
       "type": "1",
