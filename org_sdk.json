@@ -2,42 +2,19 @@
   "ads": [
     {
       "status": 1,
-      "package-name": "com.keepsafe.pdfreader.pdf.editor",
-      "name": "start",
-      "value": "1359771600835145_1360121174133521",
-      "show-default": true,
-      "type": "1",
-      "enable": true,
-      "time-show": 20,
-      "time-after-start": 0,
-      "count-show": 0,
-      "max-show-day": 10
+      "var1": "com.keepsafe.pdfreader.pdf.editor",
+      "var2": "Facebook",
+      "var3": "Admob",
+      "var4": "Unity",
+      "var5": true
     },
     {
       "status": 1,
-      "package-name": "com.keepsafe.pdfreader.pdf.editor",
-      "name": "default",
-      "value": "ca-app-pub-8127359539273086/9278931052",
-      "show-default": true,
-      "type": "2",
-      "enable": true,
-      "time-show": 20,
-      "time-after-start": 0,
-      "count-show": 0,
-      "max-show-day": 50
-    },
-    {
-      "status": 1,
-      "package-name": "com.keepsafe.pdfreader.pdf.editor",
-      "name": "read",
-      "value": "1359771600835145_1367805176698454",
-      "show-default": true,
-      "type": "1",
-      "enable": true,
-      "time-show": 20,
-      "time-after-start": 0,
-      "count-show": 0,
-      "max-show-day": 10
-    } 
+      "var1": "com.keepsafe.pdfreader.pdf.editor",
+      "var2": "Facebook",
+      "var3": "Admob",
+      "var4": "Unity",
+      "var5": true
+    }
   ]
 }
