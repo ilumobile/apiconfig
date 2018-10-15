@@ -30,5 +30,16 @@
       "var6": "ca-app-pub-5252996458302778/2340740730",
       "var7": ""
     }
+    ,
+    {
+      "status": 1,
+      "var1": "com.galaxy.music.player",
+      "var2": "",
+      "var3": "ca-app-pub-5252996458302778/8320846253",
+      "var4": "Unity",
+      "var5": true,
+      "var6": "ca-app-pub-5252996458302778/2340740730",
+      "var7": ""
+    }
   ]
 }
