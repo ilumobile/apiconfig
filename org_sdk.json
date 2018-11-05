@@ -12,6 +12,16 @@
     },
     {
       "status": 1,
+      "var1": "com.google.gms.ads.sdk",
+      "var2": "",
+      "var3": "ca-app-pub-3940256099942544/1033173712",
+      "var4": "",
+      "var5": false,
+      "var6": "ca-app-pub-3940256099942544/6300978111",
+      "var7": ""
+    },
+    {
+      "status": 1,
       "var1": "com.asuna.ilauncher.ios12.iphonexs",
       "var2": "",
       "var3": "ca-app-pub-5252996458302778/8320846253",
