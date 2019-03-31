@@ -18,8 +18,8 @@
     {
       "status": 1,
       "name": "second",
-      "value": "1776719702340327_1776720569006907",
-      "type": "1",
+      "value": "ca-app-pub-3940256099942544/1033173712",
+      "type": "2",
       "enable": true,
       "defaultParam": "",
       "packageName": "com.pdf.viewer.pdftool.reader.document",
